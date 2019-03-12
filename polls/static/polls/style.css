@@ -1,0 +1,14 @@
+h1{
+    margin-left: 50%;
+    color: crimson;
+}
+
+li a {
+    color: gray;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+body {
+    background: url("images/background.jpg") no-repeat;
+}
